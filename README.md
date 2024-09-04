@@ -8,3 +8,13 @@ JavaScript, React, Bootstrap, HTML, CSS, Firebase, Mongodb, Heroku, Express, Nod
 npx create-react-app clean-crafty
 
 ### Live Site Link: https://clean-crafty.web.app/
+
+<!-- Project run qilish uchun 
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+npm start shuni -->
+<!-- YOKI -->
+
+<!-- Buni terminalga qoyib 
+export NODE_OPTIONS=--openssl-legacy-provider -->
+
+<!-- Keyin npm start qilsa ishlidi ! -->
